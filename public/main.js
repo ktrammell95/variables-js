@@ -14,8 +14,8 @@ function main() {
   }
   console.log(aboutMe)
 
-  // const userName = window.prompt('What is your name?')
-  // console.log(`Hello ${userName}, it is nice to meet you!`)
+  const userName = window.prompt('What is your name?')
+  console.log(`Hello ${userName}, it is nice to meet you!`)
 
   const numberOne = window.prompt('Give me a number')
   const numberTwo = window.prompt('Give me a another number')
